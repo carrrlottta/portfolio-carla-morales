@@ -24,7 +24,6 @@ iOS Developer · Valparaíso, Chile
 - `projects/inmobiliaria-django/`: trabajo seleccionado y evidencias.
 - `docs/`: planificación anterior y documento de la primera etapa.
 - `github-profile/README.md`: texto listo para el README del perfil de GitHub.
-- `INSTRUCCIONES_PUBLICACION.md`: pasos de entrega y GitHub Pages.
 
 ## Trabajo incluido
 
